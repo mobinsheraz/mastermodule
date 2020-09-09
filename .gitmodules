@@ -1,0 +1,6 @@
+[submodule "apps/submodule-a"]
+	path = apps/submodule-a
+	url = git@github.com:mobinsheraz/submodule-a.git
+[submodule "apps/submodule-b"]
+	path = apps/submodule-b
+	url = git@github.com:mobinsheraz/submodule-b.git
